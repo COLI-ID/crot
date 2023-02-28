@@ -1,6 +1,10 @@
 LANGSUNG AJA INSTALL PERINTAH DI BAWAH
 
 ````bash
+REGISTRASI API KEY SALIN LINK DI BAWAH
+https://licensi.crot-brute.my.id/register
+````
+````bash
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
