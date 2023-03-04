@@ -17,10 +17,10 @@ $ cd crot
 Run Script
 ````bash
 $ Untuk 32bit Ketik 👇
-$ chmod +x brute32 && ./cmbf
+$ chmod +x cmbf && ./cmbf
 
 $ Untuk 64bit Ketik👇
-$ chmod +x brute64 && ./cmbf64
+$ chmod +x cmbf64 && ./cmbf64
 ````
 
 SAKITU WAE TI PUSAT MAH GUNAKAN YANG BIJAK YA LUR :)
